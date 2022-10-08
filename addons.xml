@@ -25,9 +25,9 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.gogoanime" name="GoGoAnime" version="2.0.9" provider-name="cywteow">
+	<addon id="plugin.video.gogoanime" name="GoGoAnime" version="2.0.10" provider-name="cywteow">
 		<requires>
-			<import addon="script.module.beautifulsoup4" version="4.8.2"/>
+			<import addon="script.module.beautifulsoup4" version="4.11.1"/>
 			<import addon="script.module.requests" version="2.22.0"/>
 			<import addon="script.module.reroutingpy3" version="0.1.2"/>
 			<import addon="script.module.resolveurl" version="5.1.18"/>
